@@ -1,1 +1,1 @@
-!(image.png)
+![Normalization Question](image.png)
