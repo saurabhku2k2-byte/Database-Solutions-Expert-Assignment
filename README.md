@@ -2,5 +2,5 @@
 This contains all the mini projects and assignment given in the Wipro Course Database-Solutions-Expert
 
 ## Topics Covered
-### Introduction to RDBMS
+### 01.Introduction to RDBMS
 #### Normalization
