@@ -3,4 +3,4 @@ This contains all the mini projects and assignment given in the Wipro Course Dat
 
 ## Topics Covered
 ### 01. Introduction to RDBMS
-####      Normalization
+#### - Normalization
